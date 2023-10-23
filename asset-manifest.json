@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YouTube-clone2/static/css/main.eacbf790.css",
+    "main.js": "/YouTube-clone2/static/js/main.97a9edba.js",
+    "static/js/787.df02e639.chunk.js": "/YouTube-clone2/static/js/787.df02e639.chunk.js",
+    "static/media/ytLogo.png": "/YouTube-clone2/static/media/ytLogo.4f4677b1b0aa581fee6e.png",
+    "index.html": "/YouTube-clone2/index.html",
+    "main.eacbf790.css.map": "/YouTube-clone2/static/css/main.eacbf790.css.map",
+    "main.97a9edba.js.map": "/YouTube-clone2/static/js/main.97a9edba.js.map",
+    "787.df02e639.chunk.js.map": "/YouTube-clone2/static/js/787.df02e639.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eacbf790.css",
+    "static/js/main.97a9edba.js"
+  ]
+}
