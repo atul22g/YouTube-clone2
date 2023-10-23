@@ -14,7 +14,7 @@ import { useSelector } from "react-redux";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/YouTube-clone2">
       <Sidebar />
       <Routes>
         <Route path="/" element={<Feed />} />
