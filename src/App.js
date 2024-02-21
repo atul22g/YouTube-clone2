@@ -6,15 +6,10 @@ import {
   VideoDetails,
 } from "./pages/index";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import { red } from "@mui/material/colors";
-import Stack from "@mui/material/Stack";
-import LinearProgress from "@mui/material/LinearProgress";
-import { createTheme } from "@mui/material/styles";
-import { useSelector } from "react-redux";
 
 function App() {
   return (
-    <Router basename="/YouTube-clone2">
+    <Router>
       <Sidebar />
       <Routes>
         <Route path="/" element={<Feed />} />

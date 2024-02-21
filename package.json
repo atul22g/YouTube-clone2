@@ -1,6 +1,5 @@
 {
   "name": "youtube-clone",
-  "homepage": "https://atugatran-projects.github.io/YouTube-clone2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
